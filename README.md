@@ -105,7 +105,11 @@ Highest Voted Movie: [Movie Name] received the highest average votes
 
 📞 Contact
 
-Argha 
-Email: arghakundu9999@gmail.com
+Argha    
+
+
+Email: arghakundu9999@gmail.com 
+
+
 Project Repository: GitHub
 
