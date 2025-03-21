@@ -106,7 +106,6 @@ Highest Voted Movie: [Movie Name] received the highest average votes
 📞 Contact
 
 Argha 
-linkedin:-https://www.linkedin.com/in/argha-kundu-506133216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 Email: arghakundu9999@gmail.com
 Project Repository: GitHub
 
