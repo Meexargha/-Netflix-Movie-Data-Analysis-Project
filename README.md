@@ -92,15 +92,6 @@ Steps followed in the analysis:
 
 Most Common Genre: Drama and Documentary movies dominate Netflix's content.
 
-Highest Popularity: [Movie Name] is the most popular movie on the platform.
-
-Lowest Popularity: [Movie Name] has the lowest popularity score.
-
-Most Movies Released In: [Year] had the highest number of releases on Netflix.
-
-Highest Voted Movie: [Movie Name] received the highest average votes
-
-
 ---
 
 📞 Contact
